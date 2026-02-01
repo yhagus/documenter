@@ -81,6 +81,15 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: 'Linux',
+        items: [
+          {
+            text: 'Linux',
+            link: '/server/linux/sudo.md',
+          },
+        ],
+      },
     ],
   },
 });
